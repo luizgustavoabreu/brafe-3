@@ -7,8 +7,8 @@
  
 |**Brafé  3**|**Deploy**|
 |:---:|---|
-|*Puro:*|https://luizgustavoabreu.github.io/brafe-3/puro  :construction:|
-|*Flexbox:*||
+|*Puro:*|https://luizgustavoabreu.github.io/brafe-3/puro|
+|*Flexbox:*|https://luizgustavoabreu.github.io/brafe-3/flexbox  :construction:|
 |*Bootstrap:*||
  
 </div>
